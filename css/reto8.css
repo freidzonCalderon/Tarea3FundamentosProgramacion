@@ -1,0 +1,31 @@
+@media (max-width: 600px) {
+	.imagenes img {
+		max-height: 10rem;
+		max-width: 15rem;
+		object-fit: cover;
+	}
+}
+
+@media (min-width: 600px) {
+	.imagenes img {
+		max-height: 20rem;
+		max-width: 25rem;
+		object-fit: cover;
+	}
+}
+
+@media (min-width: 900px) {
+	.imagenes img {
+		max-height: 30rem;
+		max-width: 35rem;
+		object-fit: cover;
+	}
+}
+
+@media (min-width: 1200px) {
+	.imagenes img {
+		max-height: 40rem;
+		max-width: 45rem;
+		object-fit: cover;
+	}
+}

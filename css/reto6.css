@@ -1,0 +1,18 @@
+.card img {
+	display: flex;
+	object-fit: cover;
+	height: 18rem;
+	width: 18rem;
+}
+
+.card {
+	border: none;
+	display: flex;
+	height: 18rem;
+	width: 18rem;
+}
+
+.card img:hover {
+	box-shadow: rgba(0, 0, 0, 0.70) 0px 10px 20px;
+	cursor: pointer;
+}

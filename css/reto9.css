@@ -1,0 +1,47 @@
+.botones button{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+}
+
+.botones button:hover{
+	outline: 2px solid black;
+}
+
+.botones button:active{
+	border: 5px solid rgb(30, 30, 30);
+}
+
+#bt1{
+	background-color: #FFFFFF;
+	border: 1px solid #c9c8c8;
+}
+#bt2{
+	background-color: #EFEFEF;
+	border: 1px solid #c9c8c8;
+}
+#bt3{
+	background-color: #D4D1D0;
+	border: 1px solid #D4D1D0;
+}
+#bt4{
+	background-color: #656E71;
+	border: 1px solid #656E71;
+}
+#bt5{
+	background-color: #DD2332;
+	border: 1px solid #DD2332;
+}
+#bt6{
+	background-color: #863D59;
+	border: 1px solid #863D59;
+}
+#bt7{
+	background-color: #3A90CA;
+	border: 1px solid #3A90CA;
+}
+#bt8{
+	background-color: #161B20;
+	border: 1px solid #161B20;
+}
+

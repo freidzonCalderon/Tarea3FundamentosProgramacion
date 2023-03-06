@@ -1,0 +1,10 @@
+input[type="checkbox"] {
+	width: 1rem;
+	height: 1rem;
+}
+
+input[type="checkbox"]:hover {
+	outline: max(2px, 0.15em) solid; 
+	outline-offset: max(2px, 0.15em);
+	cursor: pointer;
+}
